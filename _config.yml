@@ -1,1 +1,19 @@
 theme: jekyll-theme-minimal
+title: Houssem-Eddine Gueziri, Ph. D.
+description: Personal page
+
+logo: https://avatars1.githubusercontent.com/u/8172629?s=400&u=2189edc407e77a0524b2fbcc137f1feb8ea567fb&v=4
+
+owner:
+  name: Houssem-Eddine Gueziri
+  bio: "Personal page."
+  email: houssem.gueziri@mcgill.ca
+  # Do not include the @ symbol in your Twitter username
+  linkedin: houssemgueziri
+  github: hgueziri
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Houssem_Eddine_Gueziri
+  google:
+    analytics:
+    verify:
+    scholar: #id
