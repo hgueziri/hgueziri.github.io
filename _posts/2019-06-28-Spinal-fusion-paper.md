@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Ultrasound-CT registration paper
+title: "Ultrasound-CT registration paper"
 excerpt: ""
 tags: [spine, registration, ultrasound]
 comments: false
-category: blog
+author: "houssem gueziri"
+category: news
 ---
 
 Ultrasound-CT registration for spinal fusion surgery. Paper accepted for publication in IJCARS.
