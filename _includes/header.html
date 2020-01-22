@@ -1,0 +1,16 @@
+<div id="header">
+  <div id="header__content">
+    <div id="header__info">
+      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      <p>{{site.description}}</p>
+      <img src="https://avatars1.githubusercontent.com/u/8172629?s=400&u=2189edc407e77a0524b2fbcc137f1feb8ea567fb&v=4" alt="avatar">
+    </div>
+    <ul id="header__nav">
+      <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active__link{% else %}{% endif %}">Main</a>
+      </li>
+      <li><a href="{{ site.baseurl }}/publications" class="{% if page.url == '/publications/' %}active__link{% else %}{% endif %}">Publications</a></li>
+      <li><a href="{{ site.baseurl }}/projects" class="{% if page.url == '/projects/' %}active__link{% else %}{% endif %}">Projects</a></li>
+      <li><a href="https://github.com/hgueziri" class="">Github</a></li>
+    </ul>
+  </div>
+</div>

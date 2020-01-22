@@ -1,8 +1,16 @@
-theme: jekyll-theme-minimal
 title: Houssem-Eddine Gueziri, Ph. D.
-description: Personal page
+email: 
+description: 
+baseurl: "/Mekyll" # the subpath of your site, e.g. /blog
+url: "http://ifedyukin.github.io" # the base hostname & protocol for your site
+postCount: 5 # the number of posts on the "index" page
 
-logo: https://avatars1.githubusercontent.com/u/8172629?s=400&u=2189edc407e77a0524b2fbcc137f1feb8ea567fb&v=4
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+permalink   : /:year/:title/
+source: ./
+destination: ./_site
 
 owner:
   name: Houssem-Eddine Gueziri
@@ -17,3 +25,11 @@ owner:
     analytics:
     verify:
     scholar: #id
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+
+collections:
+  projects:
+    output: true
+
