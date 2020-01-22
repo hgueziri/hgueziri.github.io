@@ -26,8 +26,6 @@ owner:
     verify:
     scholar: #id
 
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
 
 collections:
   projects:
