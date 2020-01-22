@@ -2,7 +2,7 @@ title: Houssem-Eddine Gueziri, Ph. D.
 email: 
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ifedyukin.github.io" # the base hostname & protocol for your site
+url: "http://hgueziri.github.io/" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
 
 # Build settings
@@ -14,7 +14,7 @@ destination: ./_site
 
 owner:
   name: Houssem-Eddine Gueziri
-  bio: "Personal page."
+  bio: ""
   email: houssem.gueziri@mcgill.ca
   # Do not include the @ symbol in your Twitter username
   linkedin: houssemgueziri
