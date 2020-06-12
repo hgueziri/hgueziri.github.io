@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2020
+* [Automatic extraction of vertebral landmarks from ultrasound images: A pilot study](https://doi.org/10.1016/j.compbiomed.2020.103838)<br/>
+A. Brignol, H.-E. Gueziri, F. Cheriet, D.L. Collins, C. Laporte (2020). Computers in Biology and Medicine, Vol. 122, 103838.
+
 ### 2019
 * [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](https://www.researchgate.net/publication/334105717_Toward_real-time_rigid_registration_of_intra-operative_ultrasound_with_preoperative_CT_images_for_lumbar_spinal_fusion_surgery)<br/>
 H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943
