@@ -4,7 +4,7 @@ title: Ultrasound-guided spinal navigation
 description: This project aims at investigating the feasibility of intra-operative ultrasound (iUS) guidance for spinal fusion surgery. We address the problem of patient-to-preoperative CT image alignment during open spine surgery. The suftware is open-source and freely available as a plugin feature of the IBIS neuronavigation software.
 ---
 
-(Work in progress!)
+( Work in progress! )
 
 
 Spinal fusion surgery is a common procedure to treat spinal instability when medication and physical therapy fail. During the last two decades, the number of annual spinal fusion procedures has known a significant increase, with over 413,000 interventions reported in the United States. The surgery consists in rigidly fusing multiple vertebrae using rods and bone grafts to help stabilize the spinal column.  The rods are fixed to each vertebra using screws implanted within the vertebral pedicles. 
@@ -71,6 +71,6 @@ We use pointer navigation (similar to a pedicle probe) to visualize the trajecto
 
 ## Source code and binaries
 
-Source: https://github.com/IbisNeuronav/Ibis
+Source: [https://github.com/IbisNeuronav/Ibis](https://github.com/IbisNeuronav/Ibis)
 
 Binaries: TBA
