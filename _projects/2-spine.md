@@ -34,8 +34,6 @@ The solution was developped as part of the [Intraoperative Brain Imaging System 
 
 ![Fig. 2: System architecture of the CT-to-iUS rigid registration framework. Doted boxes indicate the intra-operative procedure required to be achieved by the surgeon.]({{site.baseurl}}/assets/images/spine/pediclescrewnav-software.png)
 
-The source code will be made available soon at [https://github.com/IbisNeuronav/Ibis](https://github.com/IbisNeuronav/Ibis).
-
 ## CT-to-iUS Registration
 
 An overview of our registration framework is shown in Fig. 2. 
