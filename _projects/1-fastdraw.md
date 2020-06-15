@@ -23,12 +23,12 @@ The user is at the center of attention in every interactive application. This is
 FastDRaW (for Fast Delineation by Random Walker) is an interactive graph-based segmentation approach that uses a coarse-to-fine strategy combined with a focused region of interest (ROI) to drastically reduce the computation time of the random walker segmentation. First, the random walker segmentation approach is performed on a down-sampled version of the image inside the ROI. Then, a second random walker segmentation is performed on the full resolution image (Fig. 1). FastDRaW is highly responsive rendering the segmentation interactive for large images.
 
 
-![Figure 1]({{site.baseurl}}/assets/images/processWorkflow.png)
+![Figure 1]({{site.baseurl}}/assets/images/fastdraw/processWorkflow.png)
 <center>Fig. 1 Workflow overview for FastDRaW method: (1) down-sample the original image, (2) compute the region of interest from labels, (3) perform first round segmentation on the down-sampled image, (4) compute the refinement region around the down-sample segmentation contour, and (5) refine the result with a second round segmentation.</center>
 
 From the user's perspective, the FastDRaW interaction is identical to the random walker segmentation approach, meaning that the inputs correspond to drawing some labels on the image. Starting from these labels, the following processing is hidden to the user (see Fig. 2): (i) first the labels are used to compute a ROI that discards redundant labels, then (ii) a coarse contour is obtained on the down-sampled image, (iii) this contour is used to compute a refinement region and perform a second segmentation on the full resolution image.
 
-![Figure 2]({{site.baseurl}}/assets/images/fastdrawWorkflow2.png)
+![Figure 2]({{site.baseurl}}/assets/images/fastdraw/fastdrawWorkflow2.png)
 <center>Fig. 2 Key steps performed during the FastDRaW segmentation.</center>
 
 Because the segmentation is only performed in restricted regions (ROI and refinement regions, represented with the blue region in Fig. 2), the computation is very fast. For a standard medical image size of 512x512, the computation time is about 0.13 ± 0.003 s allowing a continuous feedback display during the drawing (in comparison with the random walker, the computation time is 1.23 ± 0.03 s for the same size). For a larger format of 1500x1500 pixels, the computation reached 1.18 ± 0.04 s which is reasonable for such interactive application(in comparison with the random walker, the computation time is 10.18 ± 0.25 s for the same size).
