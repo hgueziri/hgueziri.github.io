@@ -5,8 +5,11 @@ permalink: /publications/
 ---
 
 ### 2020
+* [The state-of-the-art in ultrasound-guided spine interventions](https://www.researchgate.net/publication/342483231_The_state-of-the-art_in_ultrasound-guided_spine_interventions)<br/>
+H.-E. Gueziri, C. Santaguida, D.L. Collins, (2020). Medical Image Analysis, Vol. 65, 101769.
+
 * [Automatic extraction of vertebral landmarks from ultrasound images: A pilot study](https://doi.org/10.1016/j.compbiomed.2020.103838)<br/>
-A. Brignol, H.-E. Gueziri, F. Cheriet, D.L. Collins, C. Laporte (2020). Computers in Biology and Medicine, Vol. 122, 103838.
+A. Brignol, H.-E. Gueziri, F. Cheriet, D.L. Collins, C. Laporte, (2020). Computers in Biology and Medicine, Vol. 122, 103838.
 
 ### 2019
 * [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](https://www.researchgate.net/publication/334105717_Toward_real-time_rigid_registration_of_intra-operative_ultrasound_with_preoperative_CT_images_for_lumbar_spinal_fusion_surgery)<br/>
