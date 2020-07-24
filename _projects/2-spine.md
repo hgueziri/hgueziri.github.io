@@ -72,7 +72,7 @@ We use pointer navigation (similar to a pedicle probe) to visualize the trajecto
 * Source: [https://github.com/IbisNeuronav/Ibis](https://github.com/IbisNeuronav/Ibis)
 
 * Binaries: 
-  * x64: [ibis-3.0.0-Dev--7f2c9f6-AMD64.exe](https://github.com/hgueziri/hgueziri.github.io/blob/master/assets/bins/ibis-3.0.0-Dev--7f2c9f6-AMD64.exe)
+  * x64: [ibis-3.0.0-Dev--7f2c9f6-AMD64.exe](https://github.com/hgueziri/hgueziri.github.io/raw/master/assets/bins/ibis-3.0.0-Dev--7f2c9f6-AMD64.exe)
   * x86: TBA
 
 You may need to install OpenCL (see [here](https://streamhpc.com/blog/2015-03-16/how-to-install-opencl-on-windows/))
