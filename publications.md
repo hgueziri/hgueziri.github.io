@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ### 2020
+* [Creating a Comprehensive Research Platform for Surgical Technique and Operative Outcome in Primary Brain Tumor Neurosurgery](https://www.sciencedirect.com/science/article/pii/S1878875020317319)<br/>
+A. Winkler-Schwartz, R. Yilmaz, D.H. Tran, H.-E. Gueziri, B. Ying, M. Tuznik, V. Fonov, D.L. Collins, D.A. Rudko, J. Li, P. Debergue, V. Pazos, R. Del Maestro, (2020). World Neurosurgery, In press. 
+
 * [The state-of-the-art in ultrasound-guided spine interventions](https://www.researchgate.net/publication/342483231_The_state-of-the-art_in_ultrasound-guided_spine_interventions)<br/>
 H.-E. Gueziri, C. Santaguida, D.L. Collins, (2020). Medical Image Analysis, Vol. 65, 101769.
 
