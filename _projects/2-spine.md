@@ -11,7 +11,7 @@ Spinal fusion surgery is a common procedure to treat spinal instability when med
 
 In open surgery, the posterior part of the vertebra is exposed and the surgeon uses image-guided surgery (IGS) to align the screw trajectory through unexposed anatomy. The current IGS procedure is based on intra-operative 2D fluoroscopy or 3D computed tomography (CT) imaging, which increases operating time, interrupts the surgical workflow and exposes the patient and the operating room personnel to harmful radiations. **In this research, we investigate a radiation-free alternative using intra-operative ultrasound (iUS) imaging for spinal navigation**. The objectives are : 
 * to address the problem of patient-to-preoperative image alignment during spine surgery;
-* to build an open-source software that provides basic fonctionality features for pedicle screw navigation;
+* to build an open-source software that provides basic functionality features for pedicle screw navigation;
 * to evaluate the solution in a clinical environment.
 
 Reference papers:
