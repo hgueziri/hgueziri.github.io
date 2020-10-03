@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### 2020
-* [Open-source software for ultrasound-based guidance in spinal fusion surgery](https://doi.org/10.1016/j.ultrasmedbio.2020.08.005)<br/>
+* [Open-source software for ultrasound-based guidance in spinal fusion surgery](https://www.sciencedirect.com/science/article/pii/S0301562920303537)<br/>
 H.-E. Gueziri, C.X.B. Yan, D.L. Collins, (2020). Ultrasound in Medicine & Biology, In press.
 
 * [Creating a Comprehensive Research Platform for Surgical Technique and Operative Outcome in Primary Brain Tumor Neurosurgery](https://www.sciencedirect.com/science/article/pii/S1878875020317319)<br/>
