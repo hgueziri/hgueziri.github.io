@@ -4,6 +4,7 @@ title: Preprocessing pipeline for spine surgery
 description: Prepares CT images for ultrasound-based image-guided spine surgery. The pipeline provides 1) conversion of preoperative CT from supine to prone position, and 2) extraction of the posterior surface of the vertebra used for image registration.
 ---
 
+
 This pipeline is intended to work with the **pedicle screw navigation plugin** of IBIS (see [here](https://hgueziri.github.io/projects/2-spine/)). It takes as input supine preoperative CT image and outputs segmented posterior surface of the vertebra.
 
 The processing consists of:
