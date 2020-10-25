@@ -18,11 +18,11 @@ Once the CT image thresholded, the posterior surface of the vertebra is extracte
 
 Parameters:
 - the segmentation threshold
-	- by default set to 150 Hounsfield unit 
+  - by default set to 150 Hounsfield unit 
 - the distance between the top of the image and the probe's contact surface
-	- this represents the antero-posterior distance of the probe, by default set to 5% of the total image height
+  - this represents the antero-posterior distance of the probe, by default set to 5% of the total image height
 - the width of the contact surface
-	- by default set to 40 mm  
+  - by default set to 40 mm  
 
 # GitHub
 
@@ -31,9 +31,8 @@ Parameters:
 # TODO
 
 - Implement a more advanced segmentation method for vertebra
-	- Although thresholding works fine most of the time, it would be great to have a more reliable method that works for pathological and complex cases
+  - Although thresholding works fine most of the time, it would be better to have a method that works for pathological and complex cases
 - Add parameterization of probe position and dimensions
-- Testing with non-minc files 
 
 # References
 
