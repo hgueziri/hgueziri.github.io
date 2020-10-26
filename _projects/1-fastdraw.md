@@ -3,7 +3,7 @@ layout: post
 title: FastDRaW
 description: Fast Delineation by Random Walker (FastDRaW) is an interactive graph-based segmentation approach that uses labels (e.g., pixels labeled as foreground and background) to find the object boundary. It uses a coarse-to-fine strategy combined with a focused region of interest (ROI) to drastically reduce the computation time
 ---
-
+<br/>
 # Video
 
 <center>
