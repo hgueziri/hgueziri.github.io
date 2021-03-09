@@ -4,12 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2021
+* [Evaluation of an ultrasound-based navigation system for spine neurosurgery: a porcine cadaver study](https://doi.org/10.3389/fonc.2021.619204)<br/>
+H.-E. Gueziri, O. Rabau, C. Santaguida, D.L. Collins, (2021). Frontiers in Oncology, 11:619204.
+
+* [Quantitation of Tissue Resection Using a Brain Tumor Model and 7-T Magnetic Resonance Imaging Technology](https://doi.org/10.1016/j.wneu.2020.12.141)<br/>
+D.H. Tran, A. Winkler-Schwartz, M. Tuznik, H.-E. Gueziri, D. A. Rudko, A. Reich, R. Yilmaz, B. Karlik, D.L. Collins, A. Del Maestro, R. Del Maestro, (2021). World Neurosurgery, In press.
+
 ### 2020
 * [Open-source software for ultrasound-based guidance in spinal fusion surgery](https://www.sciencedirect.com/science/article/pii/S0301562920303537)<br/>
-H.-E. Gueziri, C.X.B. Yan, D.L. Collins, (2020). Ultrasound in Medicine & Biology, In press.
+H.-E. Gueziri, C.X.B. Yan, D.L. Collins, (2020). Ultrasound in Medicine & Biology, Vol. 46(12), pp. 3353-3368.
 
 * [Creating a Comprehensive Research Platform for Surgical Technique and Operative Outcome in Primary Brain Tumor Neurosurgery](https://www.sciencedirect.com/science/article/pii/S1878875020317319)<br/>
-A. Winkler-Schwartz, R. Yilmaz, D.H. Tran, H.-E. Gueziri, B. Ying, M. Tuznik, V. Fonov, D.L. Collins, D.A. Rudko, J. Li, P. Debergue, V. Pazos, R. Del Maestro, (2020). World Neurosurgery, In press. 
+A. Winkler-Schwartz, R. Yilmaz, D.H. Tran, H.-E. Gueziri, B. Ying, M. Tuznik, V. Fonov, D.L. Collins, D.A. Rudko, J. Li, P. Debergue, V. Pazos, R. Del Maestro, (2020). World Neurosurgery, Vol. 144, pp. e62-e71. 
 
 * [The state-of-the-art in ultrasound-guided spine interventions](https://www.researchgate.net/publication/342483231_The_state-of-the-art_in_ultrasound-guided_spine_interventions)<br/>
 H.-E. Gueziri, C. Santaguida, D.L. Collins, (2020). Medical Image Analysis, Vol. 65, 101769.
@@ -19,7 +26,7 @@ A. Brignol, H.-E. Gueziri, F. Cheriet, D.L. Collins, C. Laporte, (2020). Compute
 
 ### 2019
 * [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](https://www.researchgate.net/publication/334105717_Toward_real-time_rigid_registration_of_intra-operative_ultrasound_with_preoperative_CT_images_for_lumbar_spinal_fusion_surgery)<br/>
-H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943
+H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). International journal of computer assisted radiology and surgery, Vol. 14(11), pp. 1933–1943
 
 * [Computer Vision System for Automatic Counting of Planting Microsites Using UAV Imagery](https://www.researchgate.net/publication/334330933_Computer_Vision_System_for_Automatic_Counting_of_Planting_Microsites_Using_UAV_Imagery)<br/>
 W. Bouachir, K. E. Ihou, H.-E. Gueziri, N. Bouguila, N. Bélanger, (2019). IEEE Access, Vol. 7, pp. 82491-82500
@@ -30,7 +37,7 @@ W. Bouachir, K. E. Ihou, H.-E. Gueziri, N. Bouguila, N. Bélanger, (2019). IEEE 
 
 ### 2017
 * [Latency management in scribble-based interactive segmentation of medical images](https://www.researchgate.net/publication/321281711_Latency_Management_in_Scribble-Based_Interactive_Segmentation_of_Medical_Images?_sg=ozpGhPYDk3OYlKRQlPHIf0AkEcB6zE7GNkS-4-t7dRiVWjlkYzCK8Yw9Wq4jab3vf_52Mx2GN79c9-6wXoZ3kpIPpoMBR3oi3pwwg91A.Albd-rnyPg3KT1WDhDEhe2h9A8bnWK6DFx-BLG154oNIpDglcqInYIUKldOJXxTbKfU-IiOUF8p63W8GgiFiCQ)<br/>
- H.-E. Gueziri, M. J. McGuffin, C. Laporte, (2017). IEEE Transactions on Biomedical Engineering, 65(5), pp. 1140-1150.
+ H.-E. Gueziri, M. J. McGuffin, C. Laporte, (2017). IEEE Transactions on Biomedical Engineering, Vol. 65(5), pp. 1140-1150.
 
 ### 2016
 * [FastDRaW – Fast Delineation by Random Walker: application to large images](https://www.researchgate.net/publication/309590801_FastDRaW_-_Fast_Delineation_by_Random_Walker_application_to_large_images)<br/>
