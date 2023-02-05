@@ -4,7 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2022
+
+* [Ultrasound-based navigated pedicle screw insertion without intraoperative radiation: feasibility study on porcine cadavers](https://www.sciencedirect.com/science/article/abs/pii/S152994302200170X)<br/>
+H.-E. Gueziri, M. Georgiopoulos, C. Santaguida, D.L. Collins, (2022). The Spine Journal 22 (8), 1408-1417
+
+* [Estimating medical image registration error and confidence: A taxonomy and scoping review](https://doi.org/10.1016/j.media.2022.102531)<br/>
+J. Bierbrier, H.-E. Gueziri, D.L. Collins, (2022). Medical Image Analysis, 102531
+
 ### 2021
+* [Evaluation of low-cost hardware alternatives for 3d freehand ultrasound reconstruction in image-guided neurosurgery](https://link.springer.com/chapter/10.1007/978-3-030-87583-1_11)<br/>
+É. Léger, H.-E. Gueziri, D.L. Collins, T. Popa, M. Kersten-Oertel, (2021). Simplifying Medical Ultrasound: Second International Workshop, ASMUS 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France.
+
 * [Evaluation of an ultrasound-based navigation system for spine neurosurgery: a porcine cadaver study](https://doi.org/10.3389/fonc.2021.619204)<br/>
 H.-E. Gueziri, O. Rabau, C. Santaguida, D.L. Collins, (2021). Frontiers in Oncology, 11:619204.
 
