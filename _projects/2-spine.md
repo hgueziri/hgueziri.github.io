@@ -16,9 +16,9 @@ In open surgery, the posterior part of the vertebra is exposed and the surgeon u
 
 Reference papers:
 
-H.-E. Gueziri, C.X.B. Yan, D.L. Collins, (2020). [Open-source software for ultrasound-based guidance in spinal fusion surgery](https://doi.org/10.1016/j.ultrasmedbio.2020.08.005), Ultrasound in Medicine & Biology, In press.
+H.-E. Gueziri, C.X.B. Yan, D.L. Collins, (2020). [Open-source software for ultrasound-based guidance in spinal fusion surgery](https://doi.org/10.1016/j.ultrasmedbio.2020.08.005), Ultrasound in Medicine & Biology, 46(12), pp. 3353-3368.
 
-H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](doi: 10.1007/s11548-019-02020-1), International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943.
+H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](https://doi.org/10.1007/s11548-019-02020-1), International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943.
 
 # Demo
 
@@ -32,7 +32,7 @@ H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). [Toward real-time
 
 # Description
 
-The solution was developped as part of the [Intraoperative Brain Imaging System (IBIS)]() navigation platform. IBIS is a freely available platform that provides common functionalities used in IGS. It also allows rapid integration of new functionalities as plugins for specific applications. The current version of the *Pedicle Screw Navigation Plugin* provides: i) fast rigid registration of preoperative CT images to iUS images acquired during open surgery; and 2) multiplanar pedicle screw navigation views.
+The solution was developped as part of the [Intraoperative Brain Imaging System (IBIS)](https://github.com/IbisNeuronav/Ibis) navigation platform. IBIS is a freely available platform that provides common functionalities used in IGS. It also allows rapid integration of new functionalities as plugins for specific applications. The current version of the *Pedicle Screw Navigation Plugin* provides: i) fast rigid registration of preoperative CT images to iUS images acquired during open surgery; and 2) multiplanar pedicle screw navigation views.
 
 ![Fig. 2: System architecture of the CT-to-iUS rigid registration framework. Doted boxes indicate the intra-operative procedure required to be achieved by the surgeon.]({{site.baseurl}}/assets/images/spine/pediclescrewnav-software.png)
 

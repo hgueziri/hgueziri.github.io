@@ -15,6 +15,11 @@
   width: 100%;
 }
 
+#content video {
+  max-width: 100%;
+  height: auto;
+}
+
 /* CODE */
 
 pre, code {
