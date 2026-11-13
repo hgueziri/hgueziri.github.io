@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div id="single">
+<div id="single"{% if page.class %} class="{{ page.class }}"{% endif %}>
   <h2 class="single__title">{{ page.title }}</h2>
   {{ content }}
 </div>

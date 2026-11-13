@@ -1,6 +1,6 @@
 title: Houssem-Eddine Gueziri, Ph. D.
-email: 
-description: 
+email: houssem.gueziri@teluq.ca
+description: "Assistant Professor of Computer Science · Université TÉLUQ"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hgueziri.github.io/" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
@@ -14,8 +14,13 @@ destination: ./_site
 
 owner:
   name: Houssem-Eddine Gueziri
-  bio: ""
-  email: houssem.gueziri@mcgill.ca
+  bio: "Assistant Professor, Département Science et Technologie, Université TÉLUQ"
+  email: houssem.gueziri@teluq.ca
+  avatar: "https://avatars.githubusercontent.com/u/8172629?v=4&s=200"
+  phone: "514 843-2015, ext. 2076"
+  office: "Université TÉLUQ, 5800, rue Saint-Denis, bureau 1105, Montréal (Québec) H2S 3L5, Canada"
+  teluq: "https://www.teluq.ca/communaute/corps-professoral/hgueziri"
+  rlibre: "https://r-libre.teluq.ca/view/person/Houssem=2EGueziri=40teluq=2Eca.html"
   # Do not include the @ symbol in your Twitter username
   linkedin: houssemgueziri
   github: hgueziri
@@ -24,7 +29,7 @@ owner:
   google:
     analytics:
     verify:
-    scholar: #id
+    scholar: GlGYSpgAAAAJ
 
 
 collections:

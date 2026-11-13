@@ -36,4 +36,4 @@ Parameters:
 
 # References
 
-H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](doi: 10.1007/s11548-019-02020-1), International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943.
+H.-E. Gueziri, S. Drouin, C. X. B. Yan, D. L. Collins, (2019). [Toward real-time rigid registration of intra-operative ultrasound with preoperative CT images for lumbar spinal fusion surgery](https://doi.org/10.1007/s11548-019-02020-1), International journal of computer assisted radiology and surgery, 14(11), pp.1933–1943.

@@ -38,8 +38,7 @@ body * {
     display: flex;
     align-items: center;
     width: 100%;
-    margin: -12px auto;
-    padding-top: 42px;
+    padding-top: 30px;
 }
 #container .extremeHero-container {
     max-width: 1032px;
@@ -48,38 +47,51 @@ body * {
     margin-left: 0;
 }
 
-#header__info h1 {
-    margin-left: 7px;
+#header__info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     width: 650px;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding-bottom: 24px;
+}
+
+#header__text {
+    min-width: 0;
+}
+
+#header__info h1 {
+    margin: 0;
     color: rgba(0, 0, 0, .7);
     cursor: pointer;
     font-weight: 700;
     letter-spacing: 0;
     font-size: 2em;
+    line-height: 1.2;
 }
 
 #header__info p {
-    margin-left: 10px;
     font-size: 16px;
     line-height: 1.4;
-    margin-top: 4px;
-    margin-right: 120px;
+    margin-top: 6px;
+    color: rgba(0, 0, 0, .5);
     word-break: break-word;
     word-wrap: break-word;
-    height: 100px;
 }
 
 #header__info img {
     width: 100px;
     height: 100px;
+    flex-shrink: 0;
+    margin-left: 20px;
     border-radius: 100%;
-    float: right;
-    margin-top: -145px;
-    margin-right: 12px;
+    object-fit: cover;
 }
 
 #header__nav {
     justify-content: center;
+    flex-wrap: wrap;
     width: 100%;
     border-top: 1px solid #F3F3F3;
     display: flex;
@@ -88,8 +100,7 @@ body * {
 }
 
 #header__nav li {
-    float: left;
-    padding: 13px 20px 15px 0;
+    padding: 13px 10px 15px;
     color: rgba(0, 0, 0, .44);
 }
 
@@ -311,24 +322,70 @@ body * {
     text-decoration: none !important;
 }
 
-@media screen and (max-width: 650px) {
+/* Profile (main page) */
+
+.profile > p:first-child {
+    margin-top: 0 !important;
+}
+
+.profile h3 {
+    margin: 24px 0 6px;
+    color: rgba(0, 0, 0, .8);
+    font-size: 1.2em;
+}
+
+.profile__contact {
+    margin-top: 6px;
+}
+
+.profile__contact dt {
+    font-weight: bold;
+}
+
+.profile__contact dd {
+    margin: 0 0 8px;
+}
+
+@media screen and (max-width: 690px) {
     #content__column {
-        width: 100%;
+        width: auto;
+        padding: 0 12px;
     }
 
     #header__content {
         width: 100%;
+        padding-top: 20px;
     }
 
-    #header__info p {
-        width: 70%;
+    #header__info {
+        padding: 0 16px 16px;
     }
 
     #header__info h1 {
-        width: 70%;
+        font-size: 1.6em;
     }
 
-    #header__nav {
-        padding-left: 15px;
+    #header__info p {
+        font-size: 14px;
     }
+
+    #header__info img {
+        width: 72px;
+        height: 72px;
+        margin-left: 12px;
+    }
+}
+
+/* Publications: uniform spacing whether kramdown renders a list tight or loose */
+
+#single.publications ul {
+    margin: 8px 9px 0;
+}
+
+#single.publications li {
+    margin-bottom: 14px;
+}
+
+#single.publications li > p {
+    margin-top: 0;
 }
